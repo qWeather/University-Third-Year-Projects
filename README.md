@@ -5,7 +5,7 @@ Enterprise Application Development (C#)
 
 Advanced Interactive Media Development
 
-Native Application Development (iOS)
+Mobile Native Application Development (iOS)
 
 Security and Forensics
 
